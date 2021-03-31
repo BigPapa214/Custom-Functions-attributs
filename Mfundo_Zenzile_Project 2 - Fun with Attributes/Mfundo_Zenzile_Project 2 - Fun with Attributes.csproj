@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Mfundo_Zenzile_Project_2___Fun_with_Attributes</RootNamespace>
+  </PropertyGroup>
+
+</Project>
